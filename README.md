@@ -2,11 +2,11 @@
 
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
-## 👋 Introduction
-This is a living, growing document that will help you navigate all our mission &amp; vision for the Civic Data Alliance in respect to it's status as a non-profit entity.
-
 ## Table of Contents
 * [Introduction](#-introduction)
+
+## 👋 Introduction
+This is a living, growing document that will help you navigate all our mission &amp; vision for the Civic Data Alliance in respect to it's status as a non-profit entity.
 
 ### Civic Data Alliance
 
