@@ -10,7 +10,7 @@ This is a living, growing document that will help you navigate all our mission &
 
 ### Civic Data Alliance
 
-Founded in 2014, the [Civic Data Alliance](www.civicdataalliance.org) (CDA) is Louisville’s [Code for America](https://www.codeforamerica.org/) (CfA) Brigade and we are committed to transparent, accessible, and open data.
+Founded in 2014, the [Civic Data Alliance](https://www.civicdataalliance.org) (CDA) is Louisville’s civic tech nonprofit and we are committed to transparent, accessible, and open data and technology.
 
 We create and facilitate innovative solutions to public problems through collaborative hackathons, coding education, and accessible civic engagement.
 
