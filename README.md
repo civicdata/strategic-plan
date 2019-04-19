@@ -1,7 +1,8 @@
-# Civic Data Alliance Strategic Plan
+
 
 ![Civic Data Alliance Logo Header](https://raw.githubusercontent.com/civicdata/branding/markdown-header-test/assets/Logo/Rendered_Cube_Full_888x200_Header.png)
 
+# Civic Data Alliance Strategic Plan
 ## Table of Contents
 * [Introduction](#-introduction)
 
